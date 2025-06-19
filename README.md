@@ -12,8 +12,9 @@ A visually stunning Apple iPhone clone web experience built using **GSAP** for a
 ---
 
 ## 📸 Preview
+![Screenshot 2025-06-19 at 6 02 14 PM](https://github.com/user-attachments/assets/52c137f9-0d90-4cd0-b321-8ba2702c5dd8)
 
-![Preview Screenshot](./screenshot.png)  
+
 
 ![Screenshot 2025-06-19 at 5 55 05 PM](https://github.com/user-attachments/assets/4c84addf-dbc7-4d57-80e8-8fb7141c737e)
 
